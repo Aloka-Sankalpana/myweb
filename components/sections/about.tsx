@@ -222,26 +222,17 @@ export default function AboutSlider() {
           <h3 className="text-3xl font-semibold">CEO & Founder</h3>
           <h4 className="text-3xl font-semibold">🌿 About CanGreen Solutions</h4>
           <p className="text-lg text-gray-300 leading-relaxed">
-CanGreen Solutions is a Sri Lankan-based startup committed to transforming the future of waste management through innovation. We specialize in developing smart, tech-driven solutions to reduce environmental pollution and promote a sustainable, circular economy.
-
-By integrating Software, IoT, and Artificial Intelligence (AI), we are building systems that turn everyday waste into valuable resources — creating a cleaner and greener planet for the next generation.
-
-♻️ Flagship Project – Green Cycle
-
+CanGreen Solutions is a Sri Lankan-based startup committed to transforming the future of waste management through innovation. We specialize in developing smart, tech-driven solutions to reduce environmental pollution and promote a sustainable, circular economy. By integrating Software, IoT, and Artificial Intelligence (AI), we are building systems that turn everyday waste into valuable resources — creating a cleaner and greener planet for the next generation.
+♻️ Flagship Project – Green Cycle 
 Our pilot initiative, Green Cycle, demonstrates how technology can revolutionize polythene waste recycling. This IoT-enabled smart system collects real-time data, encourages responsible recycling habits, and optimizes waste processing.
-
 Green Cycle isn’t just a project — it’s a movement toward an eco-conscious Sri Lanka 🇱🇰, where waste is reimagined as opportunity.
 
 🚀 What We Do
 
 Build intelligent recycling ecosystems
-
 Develop smart waste collection systems powered by IoT + AI
-
 Promote sustainability through data-driven insights
-
 Turn waste into value by merging tech with environmental purpose
-
 At CanGreen, we believe innovation and nature should work hand in hand. Every recycled piece of polythene is a step closer to a greener, smarter Sri Lanka. 🌍💚
           </p>
           <p className="text-lg text-gray-300 leading-relaxed">
